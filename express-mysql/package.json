@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified",
     "start": "node server.js"
   },
-  "author": "Kevin",
+  "author": "teetee",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
